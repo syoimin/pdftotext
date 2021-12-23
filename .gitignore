@@ -1,1 +1,4 @@
-sap.pdf
+*.pdf
+.env
+output.txt
+trancerate.txt
